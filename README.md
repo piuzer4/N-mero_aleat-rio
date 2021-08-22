@@ -1,2 +1,2 @@
-# Ramdom_number
+# Random_number
 - Beginner project of guessing the number using python
