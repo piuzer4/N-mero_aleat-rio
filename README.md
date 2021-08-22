@@ -1,2 +1,2 @@
 # Ramdom_number
-- Projeto iniciante de adivinha o número usando python
+- Beginner project of guessing the number using python
