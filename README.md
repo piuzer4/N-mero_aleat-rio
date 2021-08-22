@@ -1,2 +1,2 @@
-# N-mero_aleat-rio
+# Ramdom_number
 - Projeto iniciante de adivinha o número usando python
